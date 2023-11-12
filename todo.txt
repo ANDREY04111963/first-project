@@ -1,2 +1,2 @@
 test file todo.txt
-ghhjk #1
+1. пройти еще пару уроков ГИТ
